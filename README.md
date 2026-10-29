@@ -1,4 +1,4 @@
-![BraTS - Brain Tumor Segmentation and Detection](https://storage.googleapis.com/kaggle-datasets-images/723383/1257602/c69f3f2c670ba5a3b28045cdc818cd2f/dataset-cover.png?t=2020-06-18-00-04-19)
+![BraTS - Brain Tumor Segmentation and Detection](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*9iyggBmwkXpnSCFm.png)
 
 # 🧠 Brain Tumor Segmentation and Detection using BraTS MRI Dataset
 

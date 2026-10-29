@@ -1,4 +1,4 @@
-![BraTS - Brain Tumor Segmentation and Detection](brats-banner.png)
+![BraTS - Brain Tumor Segmentation and Detection](https://storage.googleapis.com/kaggle-datasets-images/723383/1257602/c69f3f2c670ba5a3b28045cdc818cd2f/dataset-cover.png?t=2020-06-18-00-04-19)
 
 # 🧠 Brain Tumor Segmentation and Detection using BraTS MRI Dataset
 
@@ -36,8 +36,6 @@ The dataset is processed to extract relevant MRI slices and their corresponding 
 ```text
 Brain-Tumor-Segmentation-Detection-MRI/
 │
-├── brats-banner.png
-│
 ├── data/
 │   └── Processed MRI images and masks
 │
@@ -48,29 +46,13 @@ Brain-Tumor-Segmentation-Detection-MRI/
 │   └── Evaluation results and visualizations
 │
 ├── 01_Pre-traitement.ipynb
-│   └── MRI preprocessing and slice extraction
-│
 ├── 02_Segmentation_UNet.ipynb
-│   └── U-Net model implementation for tumor segmentation
-│
 ├── 03_Detection_TransferLearning.ipynb
-│   └── Tumor detection using transfer learning
-│
 ├── 04_Evaluation_et_Visualisation.ipynb
-│   └── Model evaluation and visualization of predictions
-│
 ├── train.py
-│   └── Training script
-│
 ├── utils.py
-│   └── Utility functions for preprocessing and training
-│
 ├── model.pth
-│   └── Trained model checkpoint
-│
 ├── best_model.pth
-│   └── Best trained model weights
-│
 └── README.md
 ```
 
@@ -85,7 +67,7 @@ Brain-Tumor-Segmentation-Detection-MRI/
 
 ### 2. Brain Tumor Segmentation — U-Net
 
-U-Net is a convolutional neural network designed for biomedical image segmentation. It predicts a segmentation mask that identifies the tumor region at the pixel level.
+U-Net is a convolutional neural network designed for biomedical image segmentation. It predicts a segmentation mask that identifies tumor regions at the pixel level.
 
 ### 3. Tumor Detection — Transfer Learning
 
@@ -107,14 +89,14 @@ Analyze computational performance and, where configured, estimate the environmen
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **PyTorch**
-- **Jupyter Notebook**
-- **NumPy**
-- **Matplotlib**
-- **Medical MRI image processing**
-- **U-Net**
-- **Transfer Learning**
+- Python
+- PyTorch
+- Jupyter Notebook
+- NumPy
+- Matplotlib
+- Medical MRI image processing
+- U-Net
+- Transfer Learning
 
 ## 🚀 Getting Started
 
@@ -143,11 +125,9 @@ Execute the notebooks in the following order:
 3. `03_Detection_TransferLearning.ipynb`
 4. `04_Evaluation_et_Visualisation.ipynb`
 
-**Note:** The repository structure, filenames, dependencies, and execution commands should match the actual contents of the repository.
+**Note:** Ensure that the filenames, dependencies, and execution commands match the actual repository.
 
 ## 📊 Expected Results
-
-The project aims to produce:
 
 - Preprocessed MRI slices.
 - Predicted brain tumor segmentation masks.
@@ -165,4 +145,3 @@ This project is intended for educational and research purposes. Its predictions 
 
 - GitHub: [MohamedYislim](https://github.com/MohamedYislim)
 - Portfolio: [Personal Portfolio](https://portfolio-ltuu.vercel.app/)
-

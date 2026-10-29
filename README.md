@@ -1,6 +1,6 @@
 ![BraTS - Brain Tumor Segmentation and Detection](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*9iyggBmwkXpnSCFm.png)
 
-# 🧠 Brain Tumor Segmentation and Detection using BraTS MRI Dataset
+# Brain Tumor Segmentation and Detection using BraTS MRI Dataset
 
 ## 📌 Project Overview
 
